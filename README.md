@@ -1,7 +1,5 @@
 # Sales Analytics Dashboard — Power BI
 
-![Dashboard](dashboard.png)
-
 ## Dataset
 - Online Retail Dataset (2011)
 - 541,909 rows | 8 columns
